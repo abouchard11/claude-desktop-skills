@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "claude-desktop-skills"
+abstract: >-
+  Ten skills for Claude Desktop covering research, decisions, meetings, communication,
+  feedback, document comparison, learning paths, content transformation, explanations,
+  and brainstorming.
+authors:
+  - family-names: "Bouchard"
+    given-names: "Alex"
+    email: "alex@midnightdev.dev"
+    affiliation: "MidnightDev"
+    website: "https://midnightdev.dev"
+type: software
+repository-code: "https://github.com/abouchard11/claude-desktop-skills"
+url: "https://github.com/abouchard11/claude-desktop-skills"
+date-released: 2026-07-14
+keywords:
+  - "claude"
+  - "agent-skills"
+  - "productivity"
+  - "research"
