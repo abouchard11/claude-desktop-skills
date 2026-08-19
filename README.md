@@ -34,3 +34,10 @@ These are the tasks I found myself repeating with Claude — so I turned each in
 ## License
 
 MIT — use and adapt freely.
+
+## Related
+
+Sibling skill suites. These are knowledge-work prompts, not product graphs.
+
+- [midnight-seo-skills](https://github.com/abouchard11/midnight-seo-skills) — portfolio SEO ops
+- [ai-citation-patterns](https://github.com/abouchard11/ai-citation-patterns) — GEO companion to the SEO suite
