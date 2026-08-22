@@ -29,12 +29,11 @@ See `ALL-SKILLS.md` for the full set in one place.
 
 ## Why
 
-These are the tasks I found myself repeating with Claude — so I turned each into a reusable, battle-tested prompt instead of rewriting it every time. Fork it, adapt the skills to your own workflow, and add your own.
+These are the tasks I found myself repeating with Claude — so I turned each into a reusable, battle-tested prompt instead of rewriting it every time. They are maintained here as proprietary MidnightDev materials; repository access does not grant reuse rights.
 
-## License
+## Rights
 
-MIT — use and adapt freely.
-
+**Proprietary — all rights reserved. No license is granted.** See [LICENSE](LICENSE).
 ## Related
 
 Sibling skill suites. These are knowledge-work prompts, not product graphs.
