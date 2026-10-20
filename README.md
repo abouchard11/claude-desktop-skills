@@ -1,5 +1,7 @@
 # Claude Desktop Skills
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23503116.svg)](https://doi.org/10.5281/zenodo.23503116)
+
 A collection of 10 high-leverage skills for Claude Desktop — reusable, structured prompts that turn Claude into a focused tool for common knowledge-work tasks.
 
 Each skill is a single markdown file you can drop into Claude Desktop's skills directory (or paste into a conversation) to get consistent, repeatable results.
