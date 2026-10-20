@@ -29,7 +29,7 @@ See `ALL-SKILLS.md` for the full set in one place.
 
 ## Why
 
-These are the tasks I found myself repeating with Claude — so I turned each into a reusable, battle-tested prompt instead of rewriting it every time. They are maintained here as proprietary MidnightDev materials; repository access does not grant reuse rights.
+These are the tasks I found myself repeating with Claude — so I turned each into a reusable, battle-tested prompt instead of rewriting it every time. They are maintained here by MidnightDev and released under the Apache License 2.0.
 
 ## Rights
 
