@@ -33,7 +33,7 @@ These are the tasks I found myself repeating with Claude — so I turned each in
 
 ## Rights
 
-**Proprietary — all rights reserved. No license is granted.** See [LICENSE](LICENSE).
+**Apache License 2.0.** See [LICENSE](LICENSE).
 ## Related
 
 Sibling skill suites. These are knowledge-work prompts, not product graphs.
